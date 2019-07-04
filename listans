@@ -106,7 +106,7 @@ printf("The Number Is Not A Palindrome \n");}
 printf("TASK ENDED\n");
 }
 
-// to check if number is palindrome or not
+// to check if string is palindrome or not
 
 #include<stdio.h>
 
